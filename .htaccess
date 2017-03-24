@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Git"
+AuthUserFile /gitrepo/.git-htpasswd
+Require vaild-user 
